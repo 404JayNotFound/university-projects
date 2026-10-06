@@ -1,8 +1,8 @@
 #  University Projects - Electronic Engineering
 
-Welcome to my repository! This repository hosts a variety of projects that were completed during my studies in Electronic Engineering for their respective modules. It covers a broad range of topics, from circuit design and microcontroller programming to signal processing and IoT systems. Each project demonstrates the practical application of engineering principles and showcases my skills in both hardware and software development.
+This repository hosts a variety of projects that were completed during my studies in Electronic Engineering for their respective modules. It covers a broad range of topics, from circuit design and microcontroller programming to IoT systems.
 
-The projects here reflect the culmination of theory, hands-on learning, and problem-solving techniques learned throughout my academic journey. You will find well-documented code, schematics, simulations, and detailed explanations of each project, along with the tools and technologies used.
+The projects here reflect the culmination of theory, hands-on learning, and problem-solving techniques learned throughout my academic journey.
 
 ---
 
@@ -77,9 +77,6 @@ Each project in this repository contains:
 - **Instructions**: Setup guides and usage instructions for each project.
 
 ---
-
-## 💬 Contact
-Feel free to explore, or reach out for questions. You can contact me via GitHub or email for inquiries related to any specific project. 
 
 ## Contributors
 - [Jamie O'Connor](https://github.com/404JayNotFound)
